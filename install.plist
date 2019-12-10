@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://appdown.0615yx.com/zongsheng/IOS/IPA0613/zongsheng.ipa</string>
+					<string>http://appdown.jnhongchuang.com/zongsheng/IOS/IPA0613/zongsheng.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://appdown.0615yx.com/zongsheng/IOS/57.png</string>
+					<string>http://appdown.jnhongchuang.com/zongsheng/IOS/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://appdown.0615yx.com/zongsheng/IOS/512.png</string>
+					<string>http://appdown.jnhongchuang.com/zongsheng/IOS/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
